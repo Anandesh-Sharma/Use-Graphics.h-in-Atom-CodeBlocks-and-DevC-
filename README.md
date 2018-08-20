@@ -1,6 +1,6 @@
 # Use-Graphics.h-in-Atom-CodeBlocks-and-DevC-
-How to use graphics.h in latest IDE's &amp; Editors 2018
-__*Here is the tutorial to use graphics in Popular IDE's and Editors.*__
+*How to use graphics.h in latest IDE's &amp; Editors 2018*
+
 ##### Just Follow the Steps for CODE::BLOCKS :-
 
 1. Clone the files from this repository. And download the [Code::Blocks](http://sourceforge.net/projects/codeblocks/files/Binaries/17.12/Windows/codeblocks-17.12mingw-setup.exe). 
