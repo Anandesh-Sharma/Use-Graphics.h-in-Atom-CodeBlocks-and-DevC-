@@ -46,11 +46,11 @@ Building has been tested on GNU/Linux Mint 18.*, Fedora 26, Windows ([MSYS2](htt
     
 2. To compile a program using SDL_bgi, make sure that it includes the 'graphics.h' header file. Then:
 
-    gcc -o program program.c -lSDL_bgi -lSDL2
+    ```gcc -o program program.c -lSDL_bgi -lSDL2```
 3. If you want to integrate this with your favourite editors the simply add linker. 
 
-    -lSDL_bgi
-    -lSDL2
+    ```-lSDL_bgi```
+    ```-lSDL2```
 
  
    
